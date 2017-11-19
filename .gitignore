@@ -4,8 +4,6 @@
 *.exe
 *.ilk
 *.pdb
-*.sln
-*.vcxproj
 *.vcxproj.filters
 *.log
 *.obj
